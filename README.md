@@ -41,6 +41,7 @@ again in out wiki: [Software installation](../../wiki/Software-installation)
 ### Used Libraries
 
 This project uses libraries and code by different authors:
+Refer to [/Wiki/Software-installation#used-libraries](https://github.com/toblum/McLighting/wiki/Software-installation#used-libraries) for latest library version dependencies.  If you have trouble compiling, modify platformio.ini using these library versions to get a common starting point.
 
 - [WiFiManager](https://github.com/tzapu/WiFiManager) by tzapu (tested with version 0.12.0)
 
